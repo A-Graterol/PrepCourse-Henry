@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del curso de Henry
+Este Proyecto es para crear un repositorio desde mi computadora a git
